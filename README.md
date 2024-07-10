@@ -26,7 +26,7 @@ $$\sum_{按照经济寿命更新设备}=PV(\dfrac{1}{R^{t_e}}-1,\infty,-PV(r,t_d
 $$
 
 那么，
-$$ \dfrac{\sum_{年折旧额相同} }{\sum_{按照经济寿命更新设备}} = \dfrac{1-R^{t_d}}{1-R^{t_e}}
+$$\dfrac{\sum_{年折旧额相同} }{\sum_{按照经济寿命更新设备}} = \dfrac{1-R^{t_d}}{1-R^{t_e}}
 $$
 
 $$\sum_{按照经济寿命更新设备} = \dfrac{1-R^{t_e}}{1-R^{t_d}}*PV(r,\infty,-A)$$
